@@ -98,7 +98,7 @@ export default function HowItWorksPage() {
             <div className="grid gap-6 md:grid-cols-3">
               <OutputCard
                 title="Budget health score"
-                body="A 0–100 score with labels like "strong," "balanced," or "vulnerable," plus 2–4 key drivers explaining why."
+                body='A 0–100 score with labels like "strong," "balanced," or "vulnerable," plus 2–4 key drivers explaining why.'
               />
               <OutputCard
                 title="Risk & opportunity list"
