@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gov-blue: #0F3D91;
+  --color-civic-teal: #2AA9A1;
+  --color-charcoal: #1E1E1E;
+  --color-fiscal-gold: #D6A329;
+  --color-logic-mint: #C9F1E1;
+  --color-soft-slate: #E5EAF0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+

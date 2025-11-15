@@ -1,0 +1,25 @@
+FiscalYear,Fund,Department,Division,AccountCode,AccountName,Amount
+FY23,General Fund,Public Works,Fleet Services,5101,Fleet Maintenance,3200000
+FY24,General Fund,Public Works,Fleet Services,5101,Fleet Maintenance,3350000
+FY25,General Fund,Public Works,Fleet Services,5101,Fleet Maintenance,4120000
+FY23,General Fund,IT Services,Applications,6105,Software Subscriptions,420000
+FY24,General Fund,IT Services,Applications,6105,Software Subscriptions,455000
+FY25,General Fund,IT Services,Applications,6105,Software Subscriptions,520000
+FY25,General Fund,IT Services,Applications,6105-1,Software Subscriptions (CRM),48000
+FY25,General Fund,IT Services,Applications,6105-2,Software Subscriptions (Analytics),50000
+FY23,General Fund,Police,Operations,7001,Police Operations,12200000
+FY24,General Fund,Police,Operations,7001,Police Operations,12350000
+FY25,General Fund,Police,Operations,7001,Police Operations,12750000
+FY23,General Fund,Fire,Operations,7101,Fire Operations,8800000
+FY24,General Fund,Fire,Operations,7101,Fire Operations,8950000
+FY25,General Fund,Fire,Operations,7101,Fire Operations,9100000
+FY23,General Fund,Parks & Recreation,General,7201,Parks & Recreation,3400000
+FY24,General Fund,Parks & Recreation,General,7201,Parks & Recreation,3510000
+FY25,General Fund,Parks & Recreation,General,7201,Parks & Recreation,3550000
+FY23,General Fund,General Government,Revenue,9001,Property Tax Revenue,-8200000
+FY24,General Fund,General Government,Revenue,9001,Property Tax Revenue,-8400000
+FY25,General Fund,General Government,Revenue,9001,Property Tax Revenue,-8600000
+FY23,General Fund,General Government,Revenue,9002,Sales Tax Revenue,-6200000
+FY24,General Fund,General Government,Revenue,9002,Sales Tax Revenue,-6450000
+FY25,General Fund,General Government,Revenue,9002,Sales Tax Revenue,-6700000
+
